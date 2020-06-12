@@ -17,14 +17,14 @@ header > h1 {
 	font-family: "Balsamiq Sans", cursive;
 }
 
-.score-board {
+.scoreBoard {
 	margin: 20px auto;
-	border: 3px solid white;
+	border: 3px solid #958e9a;
 	width: 200px;
 	text-align: center;
 	font-family: "Balsamiq Sans", cursive;
 	font-size: 40px;
-	color: white;
+	color: #958e9a;
 	padding: 20px 10px;
 	position: relative;
 }
@@ -62,7 +62,7 @@ header > h1 {
 
 .choice {
 	display: inline-block;
-	border: 4px solid white;
+	border: 4px solid #958e9a;
 	border-radius: 50%;
 	margin-bottom: 0px 20px;
 	padding: 10px;
